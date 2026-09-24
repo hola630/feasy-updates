@@ -1,0 +1,11 @@
+{
+  "channel": "beta",
+  "version": "1.1.63",
+  "package": "https://raw.githubusercontent.com/hola630/feasy-updates/main/packages/feasy-v1.1.63.package",
+  "sha256": "eda2cae15ea4ec74cea3694a2f15d487664796ceb24f5d307beb7bed18aa3569",
+  "source_sha": "8851d33eb3ed8332294f32623493ad5b85ce0485",
+  "published_at": "2026-09-24T17:03:38Z",
+  "release_url": "https://github.com/hola630/proyectocangrejo/releases/tag/feasy-v1.1.63",
+  "force": false,
+  "operation": "publish"
+}

@@ -1,11 +1,11 @@
 {
   "channel": "stable",
-  "version": "1.1.120",
-  "package": "https://raw.githubusercontent.com/hola630/feasy-updates/main/packages/feasy-v1.1.120.package",
-  "sha256": "592caa58f13ad983f93ef34bb39759e74256582e0a51ecc1e29fe9bfc756844b",
-  "source_sha": "db1defafe18e1066c8f9641ba17c90d7ab8c6d72",
-  "published_at": "2026-10-28T23:23:51Z",
-  "release_url": "https://github.com/hola630/proyectocangrejo/releases/tag/feasy-v1.1.120",
+  "version": "1.1.121",
+  "package": "https://raw.githubusercontent.com/hola630/feasy-updates/main/packages/feasy-v1.1.121.package",
+  "sha256": "49e9eb42d148c02c91b0c096b5b0be5a6cb82b379571c2656e110f007f8f9fd8",
+  "source_sha": "74d952cfb0eda2a8872f4e36a872026a1cc16342",
+  "published_at": "2026-10-29T01:31:24Z",
+  "release_url": "https://github.com/hola630/proyectocangrejo/releases/tag/feasy-v1.1.121",
   "force": false,
   "operation": "promote"
 }

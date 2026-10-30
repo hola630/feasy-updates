@@ -1,5 +1,14 @@
 [
   {
+    "version": "1.1.151",
+    "package": "https://raw.githubusercontent.com/hola630/feasy-updates/main/packages/feasy-v1.1.151.package",
+    "sha256": "6493a778d7c77107f48e8b38e797ce5087e0c7fcffe9e5b7c92b7e9bf89a5f55",
+    "release_url": "https://github.com/hola630/proyectocangrejo/releases/tag/feasy-v1.1.151",
+    "published_at": "2026-10-30T18:11:36Z",
+    "tag": "feasy-v1.1.151",
+    "legacy": false
+  },
+  {
     "version": "1.1.150",
     "package": "https://raw.githubusercontent.com/hola630/feasy-updates/main/packages/feasy-v1.1.150.package",
     "sha256": "8755f5c610edc053b732bf539fb4fe5b661e16de45eab3095258e132590c9361",

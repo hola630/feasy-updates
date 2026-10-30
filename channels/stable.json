@@ -4,7 +4,7 @@
   "package": "https://raw.githubusercontent.com/hola630/feasy-updates/main/packages/feasy-v1.1.146.package",
   "sha256": "f74746033d63067c2fadbfbda6e0a18ae730cbda7f54380388a75dab600ef7d3",
   "source_sha": "a9a43081c296624b4a72fee8effdf3419235d9e7",
-  "published_at": "2026-10-30T01:16:02Z",
+  "published_at": "2026-10-30T06:26:55Z",
   "release_url": "https://github.com/hola630/proyectocangrejo/releases/tag/feasy-v1.1.146",
   "force": false,
   "operation": "promote"
